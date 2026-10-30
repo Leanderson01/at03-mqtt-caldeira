@@ -2,7 +2,7 @@
 
 Trabalho AT03 de Sistemas Distribuídos (SMD/UFC, 2026). Sensores de temperatura simulados publicam leituras num broker **MQTT (Mosquitto)**. O serviço **CAT** (*Compute Average Temperature*) calcula a média dos últimos 120 segundos e publica alertas, e o serviço **Alarms** mostra a média e os alarmes numa interface gráfica (Tkinter).
 
-> 🎥 **Vídeo da demonstração:** _(link do vídeo aqui)_
+> 🎥 **Vídeo da demonstração:** [assistir no Loom](https://www.loom.com/share/56ed2cadfec64612b3ce97212cbc314b)
 
 ## Paradigma
 
